@@ -3,7 +3,7 @@ import './contract.css'
 
 const Contract = () => {
   return (
-    <div>Contract</div>
+    <section id='contact'>Contract</section>
   )
 }
 
